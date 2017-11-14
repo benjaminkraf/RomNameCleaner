@@ -5,4 +5,4 @@ Checks ROM file names for first ocurrence of ( and removes all characters up to 
 
 Do not run this program on ROM files whose names do not contain a standard ROM country code. It will crash on whatever file lacks the ROM country code. 
 
-I'll implement something to guard against user stupidity or ignorance at some point but for know I trust that if you know enough to make use of this tool you know enough to do so without making more problems for yourself.
+I'll implement something to guard against user stupidity or ignorance at some point but for now I trust that if you know enough to make use of this tool you know enough to do so without making more problems for yourself.
